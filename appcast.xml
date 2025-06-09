@@ -11,10 +11,10 @@
             </sparkle:releaseNotesLink>
             <pubDate>Mon, 09 Jun 2025 12:00:00 +0000</pubDate>
             <enclosure url="https://github.com/satyamInstaCash/warehouse_release/releases/download/v1.0.2/mysetup.exe"
-                       sparkle:dsaSignature="MDwCHCKMLf99DymV9enZ+lGNO4t2YEmL5fyQ8I/r2CACHCAou5dHVAs0naBjudGTnovU/XmDbLY6oorMYu0="
+                       sparkle:dsaSignature="MDwCHG1LN6pG9dpHheGWmIUPg4MazuiHCq5hVtrPs/wCHFuMHe10KCdep9/eZnTRC4DEP2VWsIG+wK/69r4="
                        sparkle:version="1.1.0+1"
                        sparkle:os="windows"
-                       length="220160"
+                       length="67870987"
                        type="application/octet-stream" />
         </item>
     </channel>

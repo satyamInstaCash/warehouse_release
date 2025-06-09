@@ -1,0 +1,46 @@
+{
+  "appName": "Warehouse Management",
+  "description": "Desktop application for warehouse management with device connectivity",
+  "items": [
+    {
+      "version": "1.0.2",
+      "shortVersion": 2,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Added new device management features"
+        },
+        {
+          "type": "fix",
+          "message": "Fixed subscription dialog issues"
+        },
+        {
+          "type": "chore",
+          "message": "Updated dependencies and performance improvements"
+        }
+      ],
+      "date": "2025-06-09",
+      "mandatory": false,
+      "url": "https://github.com/satyamInstaCash/warehouse_release/releases/download/v1.0.2",
+      "platform": "windows"
+    },
+    {
+      "version": "1.0.1",
+      "shortVersion": 1,
+      "changes": [
+        {
+          "type": "feat",
+          "message": "Initial release with basic functionality"
+        },
+        {
+          "type": "feat",
+          "message": "Device connectivity support"
+        }
+      ],
+      "date": "2025-06-01",
+      "mandatory": false,
+      "url": "https://github.com/satyamInstaCash/warehouse_release/releases/download/v1.0.1",
+      "platform": "windows"
+    }
+  ]
+}

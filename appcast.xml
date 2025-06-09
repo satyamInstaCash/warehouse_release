@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+    <channel>
+        <title>Your App Name</title>
+        <description>Most recent updates to Your App</description>
+        <language>en</language>
+        <item>
+            <title>Version 1.1.0</title>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:releaseNotesLink>
+                https://github.com/satyamInstaCash/warehouse_release/releases/tag/v1.1.0
+            </sparkle:releaseNotesLink>
+            <pubDate>Sun, 16 Feb 2022 12:00:00 +0800</pubDate>
+            <enclosure url="https://github.com/satyamInstaCash/warehouse_release/releases/download/v1.1.0/YourApp-1.1.0-windows.exe"
+                       sparkle:dsaSignature="SIGNATURE_WILL_BE_GENERATED"
+                       sparkle:version="1.1.0+2"
+                       sparkle:os="windows"
+                       length="0"
+                       type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>

@@ -5,16 +5,16 @@
         <description>Most recent updates to adb_client</description>
         <language>en</language>
         <item>
-            <title>Version 1.1.0</title>
+            <title>Version 1.0.3</title>
             <sparkle:releaseNotesLink>
-                https://github.com/satyamInstaCash/warehouse_release/releases/tag/v1.0.2
+                https://github.com/satyamInstaCash/warehouse_release/releases/tag/v1.0.3
             </sparkle:releaseNotesLink>
             <pubDate>Mon, 09 Jun 2025 12:00:00 +0000</pubDate>
-            <enclosure url="https://github.com/satyamInstaCash/warehouse_release/releases/download/v1.0.2/mysetup.exe"
-                       sparkle:dsaSignature="MDwCHG1LN6pG9dpHheGWmIUPg4MazuiHCq5hVtrPs/wCHFuMHe10KCdep9/eZnTRC4DEP2VWsIG+wK/69r4="
+            <enclosure url="https://github.com/satyamInstaCash/warehouse_release/releases/download/v1.0.3/mysetup.exe"
+                       sparkle:dsaSignature="MD0CHFozFCCZRSIhsZIp/NEFaB+6f3jh88PLRWGXO70CHQClVVSXXlJnPhMV8F+pjeY+kr0R4FiuY6uf5/AP"
                        sparkle:version="1.1.0+1"
                        sparkle:os="windows"
-                       length="67870987"
+                       length=" 60,058,589"
                        type="application/octet-stream" />
         </item>
     </channel>
